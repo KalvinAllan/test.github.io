@@ -1,0 +1,20 @@
+{
+    "name":"PWA",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#00000",
+    "theme_color":"white",
+    "scope":".",
+    "description":"PWA",
+    "icons":[{
+        "src":"C:/Users/Asus/Downloads/mdl-template-article (2)/android-desktop.png",
+        "sizes":"192x192",
+        "type":"image/png"
+    },
+    {
+        "src":"C:/Users/Asus/Downloads/mdl-template-article (2)/ios-desktop.png",
+        "sizes":"192x192",
+        "type":"image/png"
+    }
+]
+}
